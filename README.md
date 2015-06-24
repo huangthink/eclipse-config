@@ -1,6 +1,5 @@
-DevNotes
+Eclipse CodeStyle Config
 ========
-# Eclipse CodeStyle Config
 
 ## 设置等宽字体
 
